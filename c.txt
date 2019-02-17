@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 ffgghhhkkll
+=======
+>>>>>>> parent of 32733b7... adding deleting files
